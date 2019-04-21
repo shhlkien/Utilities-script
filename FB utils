@@ -34,3 +34,109 @@ function stopThisFuckingFeature() { stop = setInterval(function() {
 	document.querySelector('._64gk a').click();
 	document.querySelector('._64gk a') && clearInterval(stop); }, 1000); 
 }
+/** SCSS **
+body,
+._2s1x ._2s1y,
+._4sp8 {
+	background: linear-gradient(90deg, #0c192a, #290c12) !important;
+	border: none;
+	color: #d7c6a5 !important;
+}
+.noGrip {
+	background: linear-gradient(#290c12, #0c192a) !important;
+}
+a,
+._6m6 a {
+	color: #c23c3c;
+}
+#contentCol,
+._4-u8,
+._3w53,
+._6qw3,
+._129h,
+._5vsj,
+.UFIRow,
+.UFICommentActorAndBody,
+._fmi,
+.fbChatSidebar,
+._1n9k,
+._3dlg + ._3dli,
+._3m75 .sideNavItem ._5afe::after,
+._1g5v + ._4arz,
+._ipo,
+._10lo,
+._517h,
+._57d8,
+._3ubp,
+._sg1,
+._1pek,
+._1pek ._1sex:hover,
+._6864,
+._69g3,
+._1lha {
+	background: transparent !important;
+	color: #d7c6a5 !important;
+}
+._3ekx._29_4,
+._6ce9 ._4mq3 .fbNubButton,
+.titlebarLabel,
+._55ln,
+._55ob,
+._3ct8 ._58al,
+._225b,
+.fbChatTypeahead ._4p-s,
+._m_1,
+._2yau:after,
+._437j,
+._4ly8,
+._6859,
+._6ajm,
+._4ly9,
+.UFIList,
+._1rh0 ._1rg_ .UFIRow,
+.uiScrollableAreaContent,
+._4d3w._u77 ._3t09,
+._77bp,
+._6iiv,
+._6ijr {
+	background: #1d111c !important;
+	color: #d4d4d4 !important;
+	&:hover {
+		background: #251d25 !important;
+	}
+	a,
+	.count,
+	._364g,
+	._3q34,
+	._2aha {
+		color: #d4d4d4 !important;
+	}
+}
+._1ht6,
+._1lj0,
+._3szq,
+._55lr,
+.linkWrap,
+._19s- a,
+._2yau,
+._2yav,
+._370r,
+._4ly5,
+._364g,
+.__6m,
+.__6l,
+._3eus {
+	color: #d4d4d4 !important;
+}
+.UFICommentReactionsBling ._3emk,
+._1lg- {
+	background: none !important;
+	border-color: transparent !important;
+}
+._552h {
+	color: #000;
+}
+.uiScrollableAreaContent {
+   background: transparent !important
+}
+*/
