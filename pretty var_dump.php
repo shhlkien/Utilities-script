@@ -1,5 +1,5 @@
 <?php
-
+ 
 echo "<pre style='background: #000000e8; color: wheat; padding: 1em;'>";
 echo '<style>.collapse{cursor:pointer;transform:rotate(90deg);display:inline-block}.collapse.toggle{transform:rotate(0)}.hidden{display:none}</style>';
 dump([]);
