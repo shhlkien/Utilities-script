@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     FB utils
 // @description night theme, preventing "up next" video
-// @version  1.1.0
+// @version  1.1.1
 // @author Phạm Trung Kiên
 // @match https://*.facebook.com/*
 // @grant    none
@@ -59,7 +59,7 @@ document.addEventListener('keyup', function(e) {
 
 /** remove fb reference */
 document.addEventListener('mouseover', function (e) {
-   if (e.target.tagName === 'A' || e.target.closest('a')) {
+   if ( (e.target.tagName === 'A' || e.target.closest('a') ) && e.target.closest('a').href.indexOf('facebook.com') < 0) {
       const a = e.target.closest('a');
       a.href = a.href.replace(a.search, '');
    }
