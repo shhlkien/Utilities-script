@@ -374,4 +374,60 @@ body,
 ._40fu path {
    fill: $white;
 }
+
+
+// image popup
+.rhcBody._72zy,
+._6iiv,
+._6ijr{
+   background: linear-gradient(90deg, #0c192a, #290c12);
+   color: $white;
+}
+
+// video popup
+._437j{
+   background: linear-gradient(90deg, #0c192a, #201019);
+   ._4ik6 {
+      color: $white;
+   }
+   ._ipo {
+      background: transparent;
+   }
+}
+._6853 {
+   background: #201019;
+}
+// relevants
+._6ajm,
+._1rh0 ._1rg_ .UFIRow{
+    background: linear-gradient(90deg, #201019, #290c12);
+   ._6864,
+   ._fmi {
+      background: transparent;
+      color: $white;
+   }
+}
+// video comments
+._4ly8,
+._6859,
+._4ly9,
+.UFIRow.UFILikeSentence,
+._3b-9._j6a ,
+.UFIRow.UFIComment._4oep {
+   background: linear-gradient(90deg, #201019, #290c12) !important;
+    color: $white;
+   ._4ly5 {
+      color: $white;
+   }
+   .UFICommentActorAndBody,
+   .UFIAddCommentWithPhotoAttacher
+   {
+      background: transparent !important;
+   }
+}
+._69ad ._fmi,
+.UFIRow.UFIReplySocialSentenceRow._4204._2o9m,
+._3-a6._65_9._5vsj .UFIRow, ._3-a6._65_9._5vsj.UFIContainer .UFIReplyList .UFIRow  {
+      background: transparent !important;
+   }
 **/
