@@ -71,11 +71,10 @@
 
 /** remove fb reference */
 document.addEventListener('mouseover', function (e) {
-   if ( (e.target.tagName === 'A' || e.target.closest('a') ) && e.target.closest('a').href.indexOf('facebook.com') < 0) {
-      const a = e.target.closest('a');
-      a.href = a.href.replace(a.search, '');
-   }
-});
+  const a = e.target.closest('a');
+  if (a !== null)
+    a.href = a.href.replace(/(.*)(fbclid=.*&|&fbclid=.*)(.*)/, '$1$3');
+}, false);
 
 /** stop up next */
 let stop, oldURL;
