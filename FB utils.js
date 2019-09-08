@@ -72,8 +72,9 @@
 /** remove fb reference */
 document.addEventListener('mouseover', function (e) {
   const a = e.target.closest('a');
-  if (a !== null)
-    a.href = a.href.replace(/(.*)(fbclid=.*&|&fbclid=.*)(.*)/, '$1$3');
+  if (a !== null) {
+    a.href = a.href.replace(/(.*)(fbclid=[\w-]+&?)(.*)/, '$1$3').replace(/[\?&]$/, '');
+  }
 }, false);
 
 /** stop up next */
