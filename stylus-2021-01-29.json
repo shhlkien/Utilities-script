@@ -1,0 +1,61 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/174683.json",
+		"md5Url": "https://update.userstyles.org/174683.md5",
+		"url": "http://userstyles.org/styles/174683",
+		"originalMd5": "9520b71856159f0d54ce693150492200",
+		"installDate": 1601129687733,
+		"sections": [
+			{
+				"code": "\t.typeahead__typeaheadList___2r0x5,\n\t.homepage__container___36UsR,\n\t.homepage__outer___-Qjxs {\n\t\tcolor: #ccc;\n\t\tbackground-color: #000;\n\t}\n\n\tbody {\n\t\tcolor: #333 !important;\n\t\tbackground-color: #20242d;\n\t}\n\n\theader {\n\t\tborder-bottom: none !important;\n\t}\n\n\t._12c8ce87,\n\t._64c2ccaf,\n\t._3313bb52,\n\t._5db7d6da,\n\t.e98ba1cc,\n\t.header__searchInput___102CH,\n\t.header__firstPublish___2CEvd,\n\t.header__expansions___3REog {\n\t\tcolor: #ccc !important;\n\t}\n\n\n\t.dca606df {\n\t\tbackground-color: #161616\n\t}\n\n\n\tstrong {\n\t\tcolor: #cb3837 !important;\n\t}\n\n\t._26391339 a {\n\t\tcolor: white;\n\t\tbackground: transparent;\n\t}\n\n\n\n\t.dfa16c80,\n\t.b56301db,\n\t[type=\"search\"],\n\t.punctuation {\n\t\tcolor: white !important;\n\t}\n\n\t._8055e658.d9f99065:hover {\n\t\tbackground-color: rgba(255, 205, 58, 0.2);\n\t}\n\t._8055e658:hover {\n\t\tbackground-color: rgba(203, 56, 55, 0.2);\n\t}\n\t._8055e658.c1f85151:hover {\n\t\tbackground-color: rgba(200, 54, 195, 0.2);\n\t}\n\t._8055e658._7cec0316:hover {\n\t\tbackground-color: rgba(137, 86, 255, 0.2);\n\t}\n\n\ta[href=\"/\"] svg {\n\t\tbackground-color: #fb3e44 !important;\n\t}\n\n\ta[href=\"/\"] svg path {\n\t\tfill: #ededed !important;\n\t}\n\n\tli a {\n\t\tcolor: #999 !important;\n\t}\n\n\t.global__application___g4ZRy main {\n\t\tbackground-color: #2A303C\n\t}\n\n\t.bg-black-05 {\n\t\tbackground-color: rgba(0, 0, 0, 0.3);\n\t}\n\n\t.list,\n\th1,\n\th2,\n\th3,\n\th4,\n\th5,\n\th6 [type=search],\n\tmain .black,\n\tmain .hover-black:focus,\n\tmain .hover-black:hover {\n\t\tcolor: #fff !important\n\t}\n\n\tmain .black-80 {\n\t\tcolor: rgba(255, 255, 255, 0.8)\n\t}\n\n\n\t.bg-white,\n\t._4ea0e50d,\n\t._94b965b0,\n\theader {\n\t\tbackground-color: #181818 !important;\n\t}\n\n\tpolygon {\n\t\tfill: white !important\n\t}\n\n\t._44c90bfa {\n\t\tbackground: transparent;\n\t\tcolor: white;\n\t}\n\n\tmain .black-60 {\n\t\tcolor: rgba(255, 255, 255, 0.6)\n\t}\n\n\tmain .black-50 {\n\t\tcolor: rgba(255, 255, 255, 0.5)\n\t}\n\n\t.package__sidebarCode___3QsIw {\n\t\tborder: 1px #2A303C solid;\n\t}\n\n\t.tabs__tab___1gHZ2.tabs__teal___23Oy8:hover {\n\t\tbackground-color: #0C3040;\n\t}\n\n\trect[fill=\"#cccccc\"] {\n\t\tfill: #fb3e44;\n\t}\n\n\n\n\t._7eb68a55,\n\tbody,\n\t._2f299eeb {\n\t\tbackground-color: #202020\n\t}\n\n\tfooter {\n\t\tbackground-color: #181818 !important;\n\t}\n\n\t/* -- NPM Dark Theme -- */\n\tmain .b--black-10 {\n\t\tborder-color: rgba(255, 255, 255, 0.2)\n\t}\n\t.package__sectionHeader___Ov0xh {\n\t\tcolor: #fff\n\t}\n\t.package__rightSidebar___9dMXo {\n\t\tbackground: #20242d\n\t}\n\t.package__install___3jWoO svg,\n\t.package__downloads___1Bmfo svg,\n\t.package__runkit___1iQd- svg .line,\n\t.package__runkit___1iQd- svg .line-round,\n\t.package__githubIcon___3R9ox svg g {\n\t\tfill: #fff\n\t}\n\t.tabs__tabs___17CUw {\n\t\tbackground: #20242d\n\t}\n\t.tabs__tab___1gHZ2.tabs__yellow___1c2N8 .tabs__tabLink___2tDwu,\n\t.tabs__tabLink___2tDwu,\n\t.tabs__tab___1gHZ2.tabs__purple___3sUHq .tabs__tabLink___2tDwu,\n\t.tabs__tab___1gHZ2.tabs__violet___rtKBH .tabs__tabLink___2tDwu {\n\t\tcolor: #fff\n\t}\n\t.tabs__tab___1gHZ2.tabs__yellow___1c2N8:hover {\n\t\tbackground-color: rgba(255, 205, 58, 0.1)\n\t}\n\t.tabs__tab___1gHZ2:hover {\n\t\tbackground-color: rgba(203, 56, 55, 0.1)\n\t}\n\t.tabs__tab___1gHZ2.tabs__purple___3sUHq:hover {\n\t\tbackground-color: rgba(200, 54, 195, 0.1)\n\t}\n\t.tabs__tab___1gHZ2.tabs__violet___rtKBH:hover {\n\t\tbackground-color: rgba(137, 86, 255, 0.1)\n\t}\n\t.tabs__tab___1gHZ2.tabs__yellow___1c2N8.tabs__tabActive___29JkF {\n\t\tbackground-color: rgba(255, 205, 58, 0.2)\n\t}\n\t.tabs__tab___1gHZ2.tabs__tabActive___29JkF {\n\t\tbackground-color: rgba(203, 56, 55, 0.2)\n\t}\n\t.tabs__tab___1gHZ2.tabs__purple___3sUHq.tabs__tabActive___29JkF {\n\t\tbackground-color: rgba(200, 54, 195, 0.2)\n\t}\n\t.tabs__tab___1gHZ2.tabs__violet___rtKBH.tabs__tabActive___29JkF {\n\t\tbackground-color: rgba(137, 86, 255, 0.2)\n\t}\n\t.package__infoBox___3RWfG {\n\t\tbackground: transparent\n\t}\n\t.forms__buttonGradient___wj4os {\n\t\tbackground: transparent\n\t}\n\t.footer__footer___20QpA {\n\t\tbackground-color: #2A303C\n\t}\n\t.footer__footer___20QpA h3 {\n\t\tcolor: #fff\n\t}\n\t.footer__footer___20QpA a {\n\t\tcolor: #fff\n\t}\n\tfooter.mt4 {\n\t\tmargin-top: 0\n\t}\n\n\t.markdown__markdown___3yof6 strong {\n\t\tcolor: #fff\n\t}\n\n\t.markdown .deep-link .deep-link-icon {\n\t\tfill: #fff\n\t}\n\n\t.markdown .highlight {\n\t\tbackground-color: #20242d\n\t}\n\n\t.markdown .storage.type,\n\t.markdown .keyword,\n\t.markdown .variable {\n\t\tcolor: #a6e22e\n\t}\n\n\t.markdown .highlight {\n\t\tcolor: #BDCCF7\n\t}\n\n\t.markdown .entity.name.function,\n\t.markdown .support.constant,\n\t.markdown .support.function,\n\t.markdown .support.type {\n\t\tcolor: #569CE8;\n\t}\n\n\t.markdown td,\n\t.markdown th {\n\t\tcolor: #222\n\t}\n\n\t.markdown .constant {\n\t\tcolor: orange !important;\n\t}\n\n\t.markdown .class {\n\t\tcolor: #D3C633 !important;\n\t}\n\n\t.markdown > h1,\n\t.markdown h2 {\n\t\tborder-bottom: 1px solid grey;\n\t\tmargin: 8px 0 16px 0;\n\t}\n\t.shell,\n\t._99e3854f,\n\t.markdown .string {\n\t\tcolor: #CACACA !important;\n\t}\n\n\t.markdown .comment {\n\t\tcolor: #5F5E5E !important;\n\t}\n\t.markdown,\n\t.markdown p,\n\t.markdown li,\n\t.markdown__markdown___3yof6 h1,\n\t.markdown__markdown___3yof6 h2,\n\t.markdown__markdown___3yof6 h3,\n\t.markdown__markdown___3yof6 h4,\n\t.markdown__markdown___3yof6 h5,\n\t.markdown__markdown___3yof6 h6 {\n\t\tcolor: #fff\n\t}\n\t.markdown__markdown___3yof6 h1,\n\t.markdown__markdown___3yof6 h2,\n\t.markdown__markdown___3yof6 h3,\n\t.markdown__markdown___3yof6 h4,\n\t.markdown__markdown___3yof6 h5,\n\t.markdown__markdown___3yof6 h6 {\n\t\tborder-bottom: 1px solid rgba(255, 255, 255, 0.1)\n\t}\n\t.markdown > blockquote,\n\t.markdown > pre,\n\t.markdown > code,\n\t.markdown :not(table):not(thead):not(tbody):not(tr):not(td) blockquote,\n\t.markdown :not(table):not(thead):not(tbody):not(tr):not(td) pre,\n\t.markdown :not(table):not(thead):not(tbody):not(tr):not(td) code {\n\t\tbackground: #20242d\n\t}\n\t.markdown blockquote {\n\t\tborder-left: 10px solid hsl(0, 0%, 24%);\n\t\tbackground: hsl(0, 0%, 4%);\n\t}\n\n\t.markdown td,\n\t.markdown th {\n\t\tbackground: hsl(0, 0%, 16%);\n\t}\n\n\t.markdown tr:nth-child(2n) td {\n\t\tbackground: hsl(0, 0%, 13%);\n\t}\n\n\t.markdown,\n\t.markdown p,\n\t.markdown li {\n\t\tcolor: hsl(0, 0%, 90%);\n\t}\n\n\t.markdown .highlight {\n\t\tcolor: hsl(0, 0%, 90%);\n\t}\n\n\t.markdown .entity.name.function {\n\t\tcolor: #61afef;\n\t}\n\n\t.markdown .string {\n\t\tcolor: hsl(95, 38%, 62%);\n\t}\n\n\t.markdown .constant.numeric {\n\t\tcolor: hsl(270, 80%, 75%);\n\t}\n\n\t.markdown .variable,\n\t.markdown .entity.name.tag,\n\t.markdown .meta.structure.dictionary.json > .string.quoted.double.json,\n\t.markdown .meta.structure.dictionary.json > .string.quoted.double.json .punctuation.string {\n\t\tcolor: hsl(355, 65%, 65%);\n\t}\n\n\t.markdown .support.class {\n\t\tcolor: hsl(200, 90%, 65%);\n\t}\n\n\t.markdown .support.constant,\n\t.markdown .support.function,\n\t.markdown .support.type {\n\t\tcolor: hsl(187, 47%, 55%);\n\t}\n\n\t.markdown .comment {\n\t\tcolor: hsl(0, 0%, 70%);\n\t}\n\n\t.markdown .storage,\n\t.markdown .storage.type {\n\t\tcolor: hsl(286, 60%, 67%);\n\t}\n\n\t.markdown .keyword {\n\t\tcolor: hsl(187, 47%, 55%);\n\t}\n\n\t.markdown .constant.language {\n\t\tcolor: hsl(220, 90%, 80%);\n\t}\n\n\t.markdown .constant.character,\n\t.markdown .constant.other {\n\t\tcolor: hsl(29, 54%, 61%);\n\t}\n\n\t.markdown .console {\n\t\tcolor: hsl(39, 67%, 69%);\n\t}\n\n\t/* ... */\n\t.Ov0xh {\n\t\tcolor: hsl(0, 0%, 95%);\n\t}\n\n\t._3RWfG {\n\t\tbackground: hsl(0, 0%, 24%);\n\t\tborder-color: hsl(0, 0%, 36%);\n\t}\n\n\t/* ... */\n\t._20QpA svg rect {\n\t\tfill: hsl(358, 60%, 36%);\n\t}\n\n\t._20QpA svg polygon {\n\t\tfill: hsl(358, 60%, 24%);\n\t}\n\n\t._20QpA a {\n\t\tcolor: hsl(0, 0%, 80%);\n\t}\n\n\t/* Forms */\n\t.wj4os {\n\t\tbackground-color: hsl(0, 0%, 34%);\n\t\tbackground-image: linear-gradient(-180deg, hsla(0, 0%, 100%, 0.1) 0%, hsla(0, 0%, 7%, 0.25) 100%);\n\t\tcolor: hsl(0, 0%, 85%);\n\t\tborder-color: hsl(0, 0%, 40%);\n\t}\n\n\t.wj4os:hover {\n\t\tbackground-image: linear-gradient(-180deg, hsla(0, 0%, 100%, 0.2) 0%, hsla(0, 0%, 7%, 0.35) 100%);\n\t\tcolor: hsl(0, 0%, 100%);\n\t\tborder-color: hsl(0, 0%, 50%);\n\t}\n\n\t._17jME {\n\t\tbackground: hsl(0, 0%, 30%);\n\t\tcolor: hsl(0, 0%, 100%);\n\t}\n\n\t._17jME:focus {\n\t\tbackground: hsl(0, 0%, 28%);\n\t}\n\n\t._17jME[disabled] {\n\t\tbackground-color: hsl(0, 0%, 15%);\n\t\tcolor: hsl(0, 0%, 36%);\n\t\tborder-color: hsl(0, 0%, 18%);\n\t}\n\n\t._12HrH {\n\t\tbackground: hsl(0, 0%, 24%);\n\t}\n\n\t/* ... */\n\t._1ciu2 {\n\t\tcolor: hsl(0, 0%, 70%);\n\t}\n\n\t._3VADP {\n\t\tbackground: hsl(0, 0%, 18%);\n\t\tborder: 1px solid hsl(0, 0%, 20%);\n\t}\n\n\t/* ... */\n\t.AXWLl:nth-of-type(odd) {\n\t\tbackground: hsl(0, 0%, 8%);\n\t}\n\n\t._3n-oA {\n\t\tcolor: hsl(120, 80%, 60%);\n\t}\n\n\t/* advisories */\n\t._3VUO2 {\n\t\tbackground: hsl(0, 0%, 6%);\n\t}\n\n\t._2iCdz {\n\t\tbackground: hsl(0, 0%, 6%);\n\t}\n\n\t._3vDOW {\n\t\tbackground: hsl(0, 0%, 4%);\n\t}\n\n\t.markdown .highlight .source.gfm {\n\t\tcolor: hsl(0, 0%, 90%);\n\t}\n\n\t.markdown .highlight .gfm .markup.heading {\n\t\tcolor: hsl(0, 0%, 100%);\n\t}",
+				"domains": [
+					"npmjs.com"
+				]
+			},
+			{
+				"code": "body,\n.vssy9,\n._75ce47e7 {\n\tbackground-color: hsl(0, 0%, 12%);\n}\n\nheader,\n.fd18bd36:nth-of-type(2n+1),\n.bb86232a {\n  background: transparent !important;\n}",
+				"urlPrefixes": [
+					"https://www.npmjs.com/login"
+				],
+				"regexps": [
+					"^https://www.npmjs.com/package/.*/access$"
+				]
+			}
+		],
+		"name": "NPM Dark Mode",
+		"originalDigest": "557e622f03ff8f0eefb1d7b5742eb89bf0ee631c",
+		"_id": "6dedfda8-2dee-446d-ba9e-c972dca3e4f0",
+		"_rev": 1601132131747,
+		"id": 22,
+		"updateDate": 1601132131747
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/176998.json",
+		"md5Url": "https://update.userstyles.org/176998.md5",
+		"url": "http://userstyles.org/styles/176998",
+		"originalMd5": "1175f7014bcea33009b6ff8ed2603887",
+		"installDate": 1609638526009,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"stackoverflow.com",
+					"superuser.com",
+					"serverfault.com",
+					"askubuntu.com",
+					"stackexchange.com"
+				],
+				"regexps": [],
+				"code": "/* Conwy - Stack Exchange\r\n   Version:  1.0.0\r\n   Author:   lineav\r\n   Licence:  https://creativecommons.org/licenses/by-sa/4.0/\r\n*/\r\n\r\n/* Invert the whole website */\r\nhtml {\r\n    filter: invert(0.80) hue-rotate(180deg) contrast(1.2)!important;\r\n    background: #ffffff !important;\r\n}\r\n\r\nimg {\r\n    filter: invert(1) hue-rotate(180deg) brightness(1.1) contrast(1.05)!important;\r\n}\r\n\r\n/* invert logo */\r\nimg.h-auto.wmx100 {\r\n    filter: invert(0)!important;\r\n}\r\n\r\n/* make scrollbars dark */\r\n::-webkit-scrollbar {\r\n    background: #2f2f2f;\r\n    width: 0.8em;\r\n}\r\n::-webkit-scrollbar-thumb {\r\n  background-color: #555555;\r\n  outline: 1px solid #111111;\r\n}"
+			}
+		],
+		"name": "Conwy - Stack Exchange",
+		"originalDigest": "055ce9ac0041cad64b4c5245fb4bb1083a231dc2",
+		"_id": "99608fd6-820d-4fd0-965c-43af78711519",
+		"_rev": 1609639944997,
+		"id": 28
+	}
+]
